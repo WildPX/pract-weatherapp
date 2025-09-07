@@ -1,0 +1,22 @@
+:root {
+  /* COLORS */
+
+  /* SPACING */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 4rem;
+
+  /* FONTS */
+  --font-family-text: "Inter", sans-serif;
+  --font-family-headers: "League Spartan", sans-serif;
+
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  --font-size-text: 1.125rem;
+  --font-size-header-lg: 6.25rem;
+  --font-size-header-md: 4.375rem;
+  --font-size-header-sm: 2.75rem;
+}

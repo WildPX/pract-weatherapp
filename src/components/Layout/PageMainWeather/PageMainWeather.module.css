@@ -1,0 +1,5 @@
+.main-weather-container {
+  grid-area: 1 / 1 / 2 / 2;
+  display: flex;
+  flex-flow: column nowrap;
+}
